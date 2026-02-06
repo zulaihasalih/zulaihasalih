@@ -3,9 +3,14 @@
 I'm an IT student passionate about learning software development and building practical projects.
 
 ### 💻 Technical Skills
-- HTML & CSS
+- HTML
+- CSS
 - C#
 - Visual Studio Code
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
 
 ### 📌 Currently
 - Building beginner web projects
