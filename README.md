@@ -23,8 +23,7 @@ I'm an IT student passionate about learning software development and building pr
 - Grow as a full-stack developer step by step
 
 ### 🔗 Connect with me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
-- 🎨 Instagram (Resin Business): https://www.instagram.com/your-business-username
-
+- 💼 LinkedIn:https://www.linkedin.com/in/zulaiha-salih-59aa623aa/
+- 🎨 Instagram (Resin Business):https://www.instagram.com/the_lumora_resin?igsh=YzEweGNzNGRzMHp6&utm_source=qr
 
 📍 Colombo, Sri Lanka
