@@ -1,6 +1,6 @@
 ## Hi, I'm Zulaiha 👋
 
-I'm an IT student passionate about learning software development and building practical projects.
+Freshly graduated with a Diploma in IT and eager to gain hands-on experience in UI/UX design and full-stack development. Motivated to learn quickly, take on real challenges, and grow my skills in a professional environment.
 
 ### 💻 Technical Skills
 - HTML
